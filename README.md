@@ -31,7 +31,7 @@
 
 
 
-### :speech_balloon:  Technology Stack
+### :speech_balloon: Skills
 
 
 <div style={{display: 'flex'}}>
