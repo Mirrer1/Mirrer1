@@ -20,7 +20,9 @@
 
 #### Computer Engineering Major
 
-#### Holds many major-related qualifications
+#### [Blog in Operation](https://velog.io/@alsejr1004)
+
+#### [Instagram in Operation](https://www.instagram.com/mirrerlike_/)
 
 
 <br />
@@ -62,7 +64,7 @@
 
 ### :speech_balloon: Contact
 
-> [Approach](mailto:alsejr1004@gmail.com)
+> [alsejr1004@gmail.com](mailto:alsejr1004@gmail.com)
 
 <br />
 
