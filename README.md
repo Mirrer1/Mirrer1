@@ -2,6 +2,8 @@
 # <img src="https://ifh.cc/g/xPcRRC.jpg" />
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMirrer1&count_bg=%23E7E7E7&title_bg=%23555555&icon=matrix.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ### :speech_balloon: Hi there  
 
 #### This is Miirer, who is preparing for a job as Frontend Web Developer.
