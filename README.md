@@ -64,7 +64,7 @@
 
 ### :speech_balloon: Contact
 
-> [alsejr1004@gmail.com](mailto:alsejr1004@gmail.com)
+> [**alsejr1004@gmail.com**](mailto:alsejr1004@gmail.com)
 
 <br />
 
