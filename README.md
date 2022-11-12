@@ -4,13 +4,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMirrer1&count_bg=%23E7E7E7&title_bg=%23555555&icon=matrix.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/Mirrer1)
 
-### :speech_balloon: Hi there  
+### :speech_balloon: Hi There  
 
 #### This is Miirer, who is preparing for a job as Frontend Web Developer.
 
 #### We think about what people need, and we want to develop a service that meets them.
 
-#### Currently I am interested in `TypeScript` and `Redux-Toolkit`.
+#### To become a developer who creates differentiated services, we are making every effort to fill in the gaps meticulously.
 
 <br />
 
@@ -20,7 +20,7 @@
 
 #### Living in Daejeon Metropolitan City, Korea
 
-#### Computer Engineering Major
+#### Currently I am interested in `TypeScript` and `Redux-Toolkit`.
 
 #### [Blog in Operation](https://velog.io/@alsejr1004)
 
