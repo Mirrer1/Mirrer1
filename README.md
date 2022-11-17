@@ -41,23 +41,20 @@
 </div>
 
 <div style={{display: 'flex'}}>
-   <img src="https://img.shields.io/badge/REACT-bcbcbc?style=flat-square&logo=React&logoColor=white"/>
-   <img src="https://img.shields.io/badge/REDUX-bcbcbc?style=flat-square&logo=Redux&logoColor=white"/>
-   <img src="https://img.shields.io/badge/REDUX SAGA-bcbcbc?style=flat-square&logo=Redux-Saga&logoColor=white"/>
    <img src="https://img.shields.io/badge/ANT DESIGN-bcbcbc?style=flat-square&logo=Ant Design&logoColor=white"/>
    <img src="https://img.shields.io/badge/STYLED COMPONENTS-bcbcbc?style=flat-square&logo=styled-components&logoColor=white"/>
 </div>
 
 <div style={{display: 'flex'}}>
-   <img src="https://img.shields.io/badge/NODE.JS-bcbcbc?style=flat-square&logo=Node.js&logoColor=white"/>
-   <img src="https://img.shields.io/badge/EXPRESS-bcbcbc?style=flat-square&logo=Express&logoColor=white"/>
-   <img src="https://img.shields.io/badge/SEQUELIZE-bcbcbc?style=flat-square&logo=Sequelize&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MYSQL-bcbcbc?style=flat-square&logo=MySQL&logoColor=white"/>
+   <img src="https://img.shields.io/badge/REACT-bcbcbc?style=flat-square&logo=React&logoColor=white"/>
+   <img src="https://img.shields.io/badge/REDUX-bcbcbc?style=flat-square&logo=Redux&logoColor=white"/>
+   <img src="https://img.shields.io/badge/REDUX SAGA-bcbcbc?style=flat-square&logo=Redux-Saga&logoColor=white"/>   
 </div>
 
 <div style={{display: 'flex'}}>
-   <img src="https://img.shields.io/badge/AWS-bcbcbc?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-   <img src="https://img.shields.io/badge/LAMBDA-bcbcbc?style=flat-square&logo=AWS Lambda&logoColor=white"/>
+   <img src="https://img.shields.io/badge/NODE.JS-bcbcbc?style=flat-square&logo=Node.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/EXPRESS-bcbcbc?style=flat-square&logo=Express&logoColor=white"/>
+   <img src="https://img.shields.io/badge/SEQUELIZE-bcbcbc?style=flat-square&logo=Sequelize&logoColor=white"/>   
 </div>
 
 <br />
