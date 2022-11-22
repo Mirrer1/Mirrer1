@@ -57,6 +57,7 @@
    <img src="https://img.shields.io/badge/NODE.JS-bcbcbc?style=flat-square&logo=Node.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/EXPRESS-bcbcbc?style=flat-square&logo=Express&logoColor=white"/>
    <img src="https://img.shields.io/badge/SEQUELIZE-bcbcbc?style=flat-square&logo=Sequelize&logoColor=white"/>   
+   <img src="https://img.shields.io/badge/AWS-bcbcbc?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </div>
 
 <br />
