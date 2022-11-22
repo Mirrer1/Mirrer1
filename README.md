@@ -20,7 +20,7 @@
 
 #### Living in Daejeon Metropolitan City, Korea
 
-#### Currently I am interested in `TypeScript` and `Redux-Toolkit`.
+#### Currently I am interested in `TypeScript` and `React Query`.
 
 #### [Blog in Operation](https://velog.io/@alsejr1004)
 
@@ -46,10 +46,13 @@
    <img src="https://img.shields.io/badge/REACT-bcbcbc?style=flat-square&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/REDUX-bcbcbc?style=flat-square&logo=Redux&logoColor=white"/>
    <img src="https://img.shields.io/badge/REDUX SAGA-bcbcbc?style=flat-square&logo=Redux-Saga&logoColor=white"/>   
+   <img src="https://img.shields.io/badge/REDUX TOOLKIT-bcbcbc?style=flat-square&logo=UIkit&logoColor=white"/>   
+   <img src="https://img.shields.io/badge/SWR-bcbcbc?style=flat-square&logo=SWC&logoColor=white"/>   
    <img src="https://img.shields.io/badge/NEXT.JS-bcbcbc?style=flat-square&logo=Next.js&logoColor=white"/>
 </div>
 
 <div style={{display: 'flex'}}>
+   <img src="https://img.shields.io/badge/GIT-bcbcbc?style=flat-square&logo=Git&logoColor=white"/>
    <img src="https://img.shields.io/badge/NODE.JS-bcbcbc?style=flat-square&logo=Node.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/EXPRESS-bcbcbc?style=flat-square&logo=Express&logoColor=white"/>
    <img src="https://img.shields.io/badge/SEQUELIZE-bcbcbc?style=flat-square&logo=Sequelize&logoColor=white"/>   
