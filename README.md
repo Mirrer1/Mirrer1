@@ -53,6 +53,7 @@
 
 <div style={{display: 'flex'}}>
    <img src="https://img.shields.io/badge/GIT-bcbcbc?style=flat-square&logo=Git&logoColor=white"/>
+   <img src="https://img.shields.io/badge/GITHUB-bcbcbc?style=flat-square&logo=GitHub&logoColor=white"/>
    <img src="https://img.shields.io/badge/NODE.JS-bcbcbc?style=flat-square&logo=Node.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/EXPRESS-bcbcbc?style=flat-square&logo=Express&logoColor=white"/>
    <img src="https://img.shields.io/badge/SEQUELIZE-bcbcbc?style=flat-square&logo=Sequelize&logoColor=white"/>   
