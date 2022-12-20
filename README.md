@@ -40,6 +40,7 @@
    <img src="https://img.shields.io/badge/JAVASCRIPT-bcbcbc?style=flat-square&logo=JavaScript&logoColor=white"/>
    <img src="https://img.shields.io/badge/ANT DESIGN-bcbcbc?style=flat-square&logo=Ant Design&logoColor=white"/>
    <img src="https://img.shields.io/badge/STYLED COMPONENTS-bcbcbc?style=flat-square&logo=styled-components&logoColor=white"/>
+   <img src="https://img.shields.io/badge/EMOTION-bcbcbc?style=flat-square&logo=Monzo&logoColor=white"/>
 </div>
 
 <div style={{display: 'flex'}}>
