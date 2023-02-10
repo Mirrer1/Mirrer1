@@ -6,11 +6,11 @@
 
 ### :speech_balloon: Hi There  
 
-#### This is Miirer, who is preparing for a job as Frontend Web Developer.
+#### 데이터의 의미를 부여하여, 이를 통해 가치를 창출하는 Frontend Developer Mirrer입니다.
 
-#### We think about what people need, and we want to develop a service that meets them.
+#### 사람들이 필요로 하는 것이 무엇인지 생각하고, 그에 맞는 서비스를 개발하고자 합니다.
 
-#### To become a developer who creates differentiated services, we are making every effort to fill in the gaps meticulously.
+#### 차별화된 서비스를 만드는 개발자가 되기 위해 매 순간 노력하고 있습니다.
 
 <br />
 
@@ -18,9 +18,9 @@
 
 ### :speech_balloon: Profile
 
-#### Living in Daejeon Metropolitan City, Korea
+#### 대한민국, 대전광역시 거주
 
-#### Currently I am interested in `Vue.js` and `React Query`.
+#### 현재 저는 `TypeScript` 와 `React Query` 에 관심이 있습니다.
 
 #### [Blog in Operation](https://velog.io/@alsejr1004)
 
