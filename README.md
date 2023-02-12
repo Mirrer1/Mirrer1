@@ -31,7 +31,7 @@
 
 
 
-### :speech_balloon: Skills
+<!-- ### :speech_balloon: Skills
 
 
 <div style={{display: 'flex'}}>
@@ -65,7 +65,7 @@
    <img src="https://img.shields.io/badge/AWS-bcbcbc?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </div>
 
-<br />
+<br /> -->
 
 
 
