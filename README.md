@@ -20,7 +20,7 @@
 
 #### 대한민국, 대전광역시 거주
 
-#### 현재 저는 `TypeScript` 와 `React Query` 에 관심이 있습니다.
+#### 현재 저는 `React Native` 와 `React Query` 에 관심이 있습니다.
 
 #### [Blog in Operation](https://velog.io/@alsejr1004)
 
