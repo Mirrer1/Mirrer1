@@ -18,7 +18,7 @@
 
 ### :speech_balloon: Profile
 
-#### 대한민국, 대전광역시 거주
+#### 대한민국, 서울특별시 거주
 
 #### 현재 저는 `React Native` 와 `React Query` 에 관심이 있습니다.
 
