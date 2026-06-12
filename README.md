@@ -25,51 +25,18 @@
 
 #### 현재 저는 `React Native` 와 `Flutter` 에 관심이 있습니다.
 
-#### [Blog in Operation](https://velog.io/@alsejr1004)
-
-#### [Instagram in Operation](https://www.instagram.com/mirrerlike_/)
 
 
 <br />
 
 
+### :speech_balloon: Blog
 
-<!-- ### :speech_balloon: Skills
+
+> [**velog.io/@alsejr1004**](https://velog.io/@alsejr1004)
 
 
-<div style={{display: 'flex'}}>
-   <img src="https://img.shields.io/badge/HTML-bcbcbc?style=flat-square&logo=HTML5&logoColor=white"/>
-   <img src="https://img.shields.io/badge/CSS-bcbcbc?style=flat-square&logo=CSS3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/JAVASCRIPT-bcbcbc?style=flat-square&logo=JavaScript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/TYPESCRIPT-bcbcbc?style=flat-square&logo=TypeScript&logoColor=white"/>  
-</div>
-
-<div style={{display: 'flex'}}>
-   <img src="https://img.shields.io/badge/ANT DESIGN-bcbcbc?style=flat-square&logo=Ant Design&logoColor=white"/>
-   <img src="https://img.shields.io/badge/STYLED COMPONENTS-bcbcbc?style=flat-square&logo=styled-components&logoColor=white"/>
-   <img src="https://img.shields.io/badge/EMOTION-bcbcbc?style=flat-square&logo=Monzo&logoColor=white"/>
-   <img src="https://img.shields.io/badge/GIT-bcbcbc?style=flat-square&logo=Git&logoColor=white"/>
-   <img src="https://img.shields.io/badge/GITHUB-bcbcbc?style=flat-square&logo=GitHub&logoColor=white"/>   
-</div>
-
-<div style={{display: 'flex'}}>
-   <img src="https://img.shields.io/badge/REACT-bcbcbc?style=flat-square&logo=React&logoColor=white"/>
-   <img src="https://img.shields.io/badge/REDUX-bcbcbc?style=flat-square&logo=Redux&logoColor=white"/>
-   <img src="https://img.shields.io/badge/REDUX SAGA-bcbcbc?style=flat-square&logo=Redux-Saga&logoColor=white"/>   
-   <img src="https://img.shields.io/badge/REDUX TOOLKIT-bcbcbc?style=flat-square&logo=UIkit&logoColor=white"/>   
-   <img src="https://img.shields.io/badge/SWR-bcbcbc?style=flat-square&logo=SWC&logoColor=white"/>   
-   <img src="https://img.shields.io/badge/NEXT.JS-bcbcbc?style=flat-square&logo=Next.js&logoColor=white"/>
-</div>
-   
-<div style={{display: 'flex'}}>   
-   <img src="https://img.shields.io/badge/NODE.JS-bcbcbc?style=flat-square&logo=Node.js&logoColor=white"/>
-   <img src="https://img.shields.io/badge/EXPRESS-bcbcbc?style=flat-square&logo=Express&logoColor=white"/>
-   <img src="https://img.shields.io/badge/SEQUELIZE-bcbcbc?style=flat-square&logo=Sequelize&logoColor=white"/>   
-   <img src="https://img.shields.io/badge/AWS-bcbcbc?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-</div>
-
-<br /> -->
-
+<br />
 
 
 ### :speech_balloon: Contact
