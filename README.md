@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Mirrer1/Mirrer1/assets/87924110/6612f100-ecb4-4c53-816b-22784728b3a9" width="480" />
 
-<br /><br />
+<br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=888888&center=true&vCenter=true&width=520&lines=Web+Developer" />
 
