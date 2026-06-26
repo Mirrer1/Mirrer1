@@ -9,7 +9,7 @@
 
 ### :speech_balloon: Hi There  
 
-#### 데이터의 의미를 부여하여, 이를 통해 가치를 창출하는 Frontend Developer Mirrer입니다.
+#### 데이터의 의미를 부여하여, 이를 통해 가치를 창출하는 Developer Mirrer입니다.
 
 #### 사람들이 필요로 하는 것이 무엇인지 생각하고, 그에 맞는 서비스를 개발하고자 합니다.
 
