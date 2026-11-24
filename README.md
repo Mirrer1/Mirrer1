@@ -18,7 +18,6 @@
 
 `React` &nbsp;·&nbsp; `Vue` &nbsp;·&nbsp; `Svelte` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `FastAPI`
 
-<br />
 
 </div>
 
