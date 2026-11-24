@@ -28,7 +28,7 @@
 
 ### Projects
 
-**Cubound** — 한 칸씩 목표 지점을 찾아가는 아이소메트릭 큐브 퍼즐 게임  
+**Cubound** — 아이소메트릭 큐브 퍼즐 게임  
 <sub>[Live](https://cubound.vercel.app) &nbsp;·&nbsp; [Repository](https://github.com/Mirrer1/Cubound)</sub>
 
 <br />
