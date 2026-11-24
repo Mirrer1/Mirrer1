@@ -4,11 +4,11 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=888888&center=true&vCenter=true&width=520&lines=Web+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=888888&center=true&vCenter=true&width=520&lines=Developer+Mirrer" />
 
 <br />
 
-데이터의 의미를 부여하여, 이를 통해 가치를 창출하는 Developer Mirrer입니다.
+데이터의 의미를 부여하여, 이를 통해 가치를 창출합니다.
 
 사람들이 필요로 하는 것이 무엇인지 생각하고, 그에 맞는 서비스를 개발하고자 합니다.
 
@@ -28,13 +28,18 @@
 
 ### Projects
 
-**Blanoir** — 비개발자용 한글 노코드 페이지 빌더  
-<sub>[Live](https://blanoir.vercel.app) &nbsp;·&nbsp; [Repository](https://github.com/Mirrer1/blanoir)</sub>
+**Cubound** — 한 칸씩 목표 지점을 찾아가는 아이소메트릭 큐브 퍼즐 게임  
+<sub>[Live](https://cubound.vercel.app) &nbsp;·&nbsp; [Repository](https://github.com/Mirrer1/Cubound)</sub>
 
 <br />
 
 **Sosie** — 프로필 기반 AI 패션 스타일리스트  
 <sub>[Live](https://sosie-theta.vercel.app) &nbsp;·&nbsp; [Repository](https://github.com/Mirrer1/sosie)</sub>
+
+<br />
+
+**Blanoir** — 비개발자용 한글 노코드 페이지 빌더  
+<sub>[Live](https://blanoir.vercel.app) &nbsp;·&nbsp; [Repository](https://github.com/Mirrer1/blanoir)</sub>
 
 </div>
 
